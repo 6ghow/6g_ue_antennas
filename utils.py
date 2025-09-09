@@ -218,7 +218,7 @@ def plot_3d_pattern(THETA_rad,
         opacity=1,
         colorbar=dict(
             title=dict(
-                text='dB',
+                text='Power [dB]',
                 font=dict(size=18)
             ),
             tickfont=dict(size=16)
